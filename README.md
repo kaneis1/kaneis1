@@ -39,6 +39,4 @@ Based in **Atlanta, USA**.
 
 ---
 
-### How to use this README
 
-Place this file at the root of your **`kaneis1/kaneis1`** repository as `README.md`. GitHub will automatically render it on your profile.
